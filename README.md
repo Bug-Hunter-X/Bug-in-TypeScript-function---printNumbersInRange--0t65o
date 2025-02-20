@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in TypeScript. The `printNumbersInRange` function does not correctly handle cases where the starting number is greater than the ending number.  The solution updates the loop condition to accommodate this scenario.
